@@ -18,7 +18,7 @@ cabal build
 
 run with:
 ```
-_[path to executable]_ _[mapName.txt]_
+[path to executable] [mapName.txt]
 ```
 
 ### map format
